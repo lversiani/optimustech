@@ -91,7 +91,7 @@ button {
   padding: 1rem;
 }
 .titulo-principal {
-  font-size: 48px;
+  font-size: 3rem;
   font-weight: 600;
   color: var(--black-color);
   padding-bottom: 1rem;
@@ -139,7 +139,7 @@ button {
   background-color: rgba(142, 36, 36, 0.05);
   border-radius: 16px;
 }
-.img-time {
+.vagas-abertas img {
   padding-top: 2.75rem;
   padding-bottom: 2rem;
 }
@@ -184,4 +184,38 @@ button {
   flex-direction: row;
   margin: 1.5rem 0;
   gap: 1.5rem;
+}
+.depoimentos {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 31.25rem;
+  text-align: center;
+  background-color: rgba(196, 25, 25, 0.03);
+}
+.depoimentos h1 {
+  width: 68rem;
+  font-size: 2.25rem;
+}
+.perfil {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+.perfil img {
+  padding-bottom: 16px;
+  padding-top: 2rem;
+}
+.perfil span {
+  font-size: 16px;
+  color: var(--black-color);
+  padding-bottom: 4px;
+  font-weight: 500;
+}
+.perfil p {
+  font-size: 14px;
+  color: #667085;
+  font-weight: 400;
 }
