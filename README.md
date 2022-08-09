@@ -7,3 +7,5 @@
 
 #### Dia 2: desenvolvida a seção "sobre nós" com seus títulos e textos.
 
+#### Dia 3: desenvolvida a seção de métricas da página.
+
