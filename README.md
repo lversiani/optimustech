@@ -19,7 +19,7 @@
 
 #### Bônus: scroll (barra de rolagem) personalizada, hover nos links do menu de navegação (navbar) e hover nos sub-blocos de cada vaga.
 
-#### Próximos passos a curto prazo: ajustar background da seção de depoimentos e adicionar um carrossel passando alguns depoimentos na tela.
+#### Próximos passos a curto prazo: ajustar background da seção de depoimentos, deixar o layout responsivo e adicionar um carrossel passando alguns depoimentos na tela.
 
 #### Próximos passos a médio prazo: fazer as outras páginas da LP (produtos e recursos).
 
