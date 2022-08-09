@@ -219,3 +219,66 @@ button {
   color: #667085;
   font-weight: 400;
 }
+footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: 26.875rem;
+  background-color: #F9FAFB;
+}
+footer h1 {
+  padding-top: 6rem;
+  padding-bottom: 1.25rem;
+  font-size: 2.25rem;
+}
+footer .texto {
+  font-size: 1.25rem;
+  font-weight: 400;
+}
+.form {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding-top: 2.5rem;
+  padding-bottom: 2rem;
+}
+.form input {
+  border: 1px solid #D0D5DD;
+  box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05);
+  border-radius: 0.5rem;
+  gap: 0.5rem;
+  width: 22.5rem;
+  height: 3rem;
+  font-size: 16px;
+  color: #667085;
+  line-height: 1.5rem;
+  margin: 16px;
+  font-weight: 400;
+}
+.form ::-webkit-input-placeholder {
+  padding-left: 16px;
+  font-size: 16px;
+  font-weight: 400;
+  color: var(--text-color);
+}
+.form button {
+  background-color: #8E2424;
+  border-radius: 0.5rem;
+  color: white;
+  width: 7.25rem;
+  height: 3rem;
+  border: 1px solid #8E2424;
+  box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05);
+  font-size: 16px;
+  font-weight: 500;
+}
+.direitos {
+  font-size: 14px;
+  color: #98A2B3;
+  text-align: center;
+  font-weight: 400;
+  padding-bottom: 2rem;
+  padding-top: 1rem;
+}
