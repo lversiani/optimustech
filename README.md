@@ -9,8 +9,5 @@
 
 #### Dia 3: desenvolvida a seção de métricas da página.
 
-<<<<<<< HEAD
 #### Dia 4: desenvolvida a seção de vagas abertas com a imagem.
 
-=======
->>>>>>> d98897d32039c5ab977cdf59cf3ac1fd460a3932
