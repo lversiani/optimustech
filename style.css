@@ -135,6 +135,53 @@ button {
   gap: 1.25rem;
   height: 112rem;
 }
+.vagas-abertas .titulo-secundario {
+  background-color: rgba(142, 36, 36, 0.05);
+  border-radius: 16px;
+}
 .img-time {
   padding-top: 2.75rem;
+  padding-bottom: 2rem;
+}
+.todas-vagas {
+  display: grid;
+  width: 48rem;
+}
+.vaga h1 {
+  font-size: 1.25rem;
+  font-weight: 500;
+  color: var(--black-color);
+  line-height: 1.875rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+.vaga .descricao-vaga {
+  margin-bottom: 1.5rem;
+}
+.descricao-vaga {
+  border: solid 1px #EAECF0;
+  border-radius: 16px;
+  gap: 1.5rem;
+  height: 8.5rem;
+  padding: 1.5rem 1.5rem;
+  transition: 0.3s;
+}
+.descricao-vaga:hover {
+  transform: scale(1.015);
+  transition: 0.3s;
+  border: solid 1px var(--red-color);
+}
+.descricao-vaga h2 {
+  font-size: 1.125rem;
+  font-weight: 500;
+  line-height: 1.75rem;
+  color: var(--black-color);
+}
+.span {
+  font-size: 16px;
+  color: var(--text-color);
+  display: flex;
+  flex-direction: row;
+  margin: 1.5rem 0;
+  gap: 1.5rem;
 }
