@@ -19,7 +19,11 @@
 
 ##### Dia 7: desenvolvido o footer (rodapé) da página com input e botão para cadastro de e-mail.
 
-##### Bônus: scroll (barra de rolagem) personalizada, hover nos links do menu de navegação (navbar) e hover nos sub-blocos de cada vaga.
+##### Bônus: 
+- scroll (barra de rolagem) personalizada
+- hover nos links do menu de navegação (navbar) 
+- hover nos sub-blocos de cada vaga
+- favicon no title da página.
 
 ##### Próximos passos a curto prazo: 
 - ajustar background da seção de depoimentos
